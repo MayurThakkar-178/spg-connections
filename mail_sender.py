@@ -64,6 +64,11 @@ def create_email_content(receiver_email):
             <p style="margin: 0 0 10px;">📩 <strong>Contact Us</strong></p>
             <p style="margin: 5px 0;">Instagram: <a href="https://instagram.com/ask_spg" style="color: #64b5f6; text-decoration: none;">@Ask_SPG</a></p>
             <p style="margin: 5px 0;">Email: <a href="mailto:ShahandPatelgroup@gmail.com" style="color: #64b5f6; text-decoration: none;">ShahandPatelgroup@gmail.com</a></p>
+            
+            <p style="margin-top: 15px; font-size: 11px; opacity: 0.5;">
+               If you want to remove your email from our list, please reply to this mail with "UNSUBSCRIBE".
+            </p>
+
             <p style="margin-top: 20px; font-size: 12px; opacity: 0.6;">&copy; 2024 Ask_SPG. All rights reserved.</p>
           </div>
 
